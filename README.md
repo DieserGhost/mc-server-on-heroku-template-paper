@@ -2,6 +2,7 @@
 
 ```diff
 + Added Paper 1.20.4 Support
++ Credits to: https://github.com/Brucewastaken/minecraft-server-on-heroku-template
 ```
 
 steps: 
